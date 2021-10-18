@@ -1,3 +1,18 @@
+*.sh
+archive/
+design/
+delivery/
+*.psd
+*.ai
+*.mp4
+*.mov
+*.avi
+.DS_Store
+*.7z
+*.gz
+*.tar.gz
+*.zip
+
 # Logs
 logs
 *.log
