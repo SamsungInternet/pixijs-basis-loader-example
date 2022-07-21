@@ -20,25 +20,7 @@ npm run build
 
 # preview demo:
 https://xr.workwork.fun/samsung/basis/
-
-![Screenshot 2021-10-15 at 07 48 24](https://user-images.githubusercontent.com/27820237/137444688-8232fe83-6102-4ccf-8398-468b33842dff.png)
-
-- Errors (browser console)
-```
-BaseTexture added to the cache with an id [assets/textures/basis/02.basis-1] that already had an entry
-BaseTexture.addToCache @ core.js:980
-
-BaseTexture added to the cache with an id [assets/textures/basis/02.basis] that already had an entry
-BaseTexture.addToCache @ core.js:980
-
-[.WebGL-0x7f81ea0a7000]GL ERROR :GL_INVALID_OPERATION : glCompressedTexImage2D: width or height invalid for level
-
-```
-
-it seems like texture has to be square of 2
-![Screenshot 2021-10-15 at 08 30 42](https://user-images.githubusercontent.com/27820237/137449581-51642e3a-bda2-488a-8bc8-f5755e5f376a.png)
-
-![Screenshot 2021-10-15 at 08 31 11](https://user-images.githubusercontent.com/27820237/137449599-54d104b3-1904-41c0-940a-f917c97b3e3d.png)
+![demo_LOOP_FOREVER](https://user-images.githubusercontent.com/27820237/180225943-47055c3f-ef5a-4caf-89d8-463a8b362164.gif)
 
 
 ```
@@ -57,7 +39,7 @@ Compression succeeded to file "02t.basis" size 9604 bytes in 0.133 secs
 ```
 
 Final demo:
-https://xr.workwork.fun/samsung/basis/example/
+https://xr.workwork.fun/samsung/basis/
 
 ![Screenshot 2021-10-18 at 12 28 23](https://user-images.githubusercontent.com/27820237/137722170-5474d3f5-33e1-4574-a91b-cce6d2cedaf8.png)
 
