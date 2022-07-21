@@ -38,11 +38,6 @@ Compression succeeded to file "02t.basis" size 9604 bytes in 0.133 secs
 
 ```
 
-Final demo:
-https://xr.workwork.fun/samsung/basis/
-
-![Screenshot 2021-10-18 at 12 28 23](https://user-images.githubusercontent.com/27820237/137722170-5474d3f5-33e1-4574-a91b-cce6d2cedaf8.png)
-
 Artwork by: Nicola De Maria - Italian artist and painter
 
 
