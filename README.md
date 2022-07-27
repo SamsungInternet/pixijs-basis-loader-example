@@ -3,9 +3,9 @@
 - Basis texture format loader demo
 
 ```
-git clone git@github.com:sylwesterdigital/clean-webpack.git
+git clone git@github.com:sylwesterdigital/pixijs-basis-loader-example.git
 
-cd clean-webpack
+cd pixijs-basis-loader-example
 npm i
 
 npm run start
