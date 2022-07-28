@@ -1,4 +1,4 @@
-# Webpack 5 + PixiJS 
+# Installation: Webpack 5 + PixiJS 
 
 - Basis texture format loader demo
 
@@ -39,6 +39,9 @@ Compression succeeded to file "02t.basis" size 9604 bytes in 0.133 secs
 ```
 
 Artwork by: Nicola De Maria - Italian artist and painter
+
+This example has been part of the development of 5G Tours project - Work Package 4 : UC1B - "Interactive Wall" 
+[![Interactive Wall at GAM Turin](https://img.youtube.com/vi/32BhoXUEUtA/0.jpg)](https://www.youtube.com/watch?v=32BhoXUEUtA)
 
 
 
